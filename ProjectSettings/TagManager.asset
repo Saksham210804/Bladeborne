@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Obstacle
+  - Cutscene
+  - Enemy
+  - Explosion
+  - Villain
+  - Obstacle_L
+  - Obstacle_R
+  - FireBall
+  - BG_Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround_3
+    uniqueID: 3238079249
+    locked: 0
+  - name: BackGround_2
+    uniqueID: 945933659
+    locked: 0
+  - name: BackGround_1
+    uniqueID: 1390073157
+    locked: 0
+  - name: BackGround
+    uniqueID: 3711188627
+    locked: 0
+  - name: Ground_back_3
+    uniqueID: 813387817
+    locked: 0
+  - name: Ground_back_2
+    uniqueID: 3674359725
+    locked: 0
+  - name: Ground_back_1
+    uniqueID: 4075015721
+    locked: 0
+  - name: Ground
+    uniqueID: 2881209965
+    locked: 0
+  - name: Ground_front
+    uniqueID: 3683226025
+    locked: 0
+  - name: Ground_front_1
+    uniqueID: 1422284799
+    locked: 0
+  - name: Ground_front_2
+    uniqueID: 1571163733
+    locked: 0
+  m_RenderingLayers:
+  - Default
